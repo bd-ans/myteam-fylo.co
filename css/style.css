@@ -24,7 +24,6 @@
 
 * {
   box-sizing: border-box;
-  user-select: none;
 }
 
 body {
@@ -122,8 +121,8 @@ body {
 }
 
 .plus-hover {
-  width: 350px;
-  height: 240px;
+  width: 100%;
+  height: 256px;
   text-align: center;
 }
 
@@ -167,7 +166,6 @@ body {
   border-radius: 50%;
   cursor: pointer;
   position: absolute;
-  transition: .2s;
   z-index: 1;
 }
 
@@ -176,7 +174,31 @@ body {
 }
 
 #plus-hoverth {
-  background-color: #0094a5;
+  background-color: #002529;
   height: 300px;
-  
+  margin-top: -16px;
+  text-align: center;
+}
+
+.mt {
+  padding-top: 33px;
+  padding-bottom: 8px;
+}
+
+.director-p {
+  display: flex;
+  justify-content: center;
+}
+
+.p {
+  width: 286px;
+  padding: 0 30px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.social-media a~a{
+  margin-left: 14px;
 }
