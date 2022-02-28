@@ -127,19 +127,6 @@ body {
   text-align: center;
 }
 
-.plus-on-hover {
-  width: 350px;
-  height: 256px;
-  text-align: center;
-}
-
-#plus_hover {
-  width: 350px;
-  height: 256px;
-  text-align: center;
-}
-
-
 .mini-about-directors {
   margin-bottom: 52px;
 }
@@ -186,4 +173,10 @@ body {
 
 .plus-icon:hover{
   background-color: #79C8C7;
+}
+
+#plus-hoverth {
+  background-color: #0094a5;
+  height: 300px;
+  
 }
