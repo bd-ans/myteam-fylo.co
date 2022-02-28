@@ -114,7 +114,7 @@ body {
   margin-top: 32px;
 }
 
-#nikita-marks {
+#nikita-marks , #cristian-duncan , #cruz-hamer, #drake-heaton{
   width: 350px;
   height: 253px;
   background-color:  #012F34;
@@ -173,7 +173,7 @@ body {
   background-color: #79C8C7;
 }
 
-#plus-hoverth {
+.plus-hoverth {
   background-color: #002529;
   height: 300px;
   margin-top: -16px;
